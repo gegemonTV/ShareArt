@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439659680005",
+    "firebase_url": "https://shareart-826c6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shareart-826c6",
+    "storage_bucket": "shareart-826c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439659680005:android:bf3564c4351207b548276c",
+        "android_client_info": {
+          "package_name": "com.minerva.shareart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439659680005-9jdbh6jqk79q2207p4tcddht15r0v13k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7SAsYvdvioInnVOQA7pPolsgUU3XUsko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439659680005-9jdbh6jqk79q2207p4tcddht15r0v13k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
